@@ -1,0 +1,74 @@
+
+.nav-a{
+    font-size: 35px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    color: white;
+    text-align: center;
+    
+}
+
+
+body{
+    background-color:white;
+}
+.Title{
+    color:white;
+    background-color: #34495e;
+}
+.squares{
+    color: white;
+    background-color: #c70101;
+    font-family: "ArchyEDT-Bold", sans-serif;
+
+
+}
+a{
+    text-decoration: none;
+}
+.header-1{
+    margin-left: 300px; margin-left: 500px;
+    display: inline
+}
+.mimoxilva1{
+    margin-left: 600px;
+    font-size: 40px;
+}
+    .mimoxilva2{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-left: 50px;
+
+    }
+    .mimoxilva3{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-left: 50px;
+        
+
+    }
+    .mimoxilva4{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 18px;
+        margin-left: 50px;
+    }
+    .matchvideo1{
+        
+        margin-left: 0px; 
+    }
+    .matchvideo2{
+        margin-left: 450px;
+        margin-top: 0px;
+        
+        
+    }
+    
+    .img-adidas{
+        margin-left: 1020px;
+    }
+    .nav-logo{
+        padding-left: 30px;
+        padding-top: 20px;
+    }
+    .matchvideo-main{
+        display: inline-block;
+    }
+
